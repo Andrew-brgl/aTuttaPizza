@@ -2,10 +2,6 @@
 
 Sito vetrina statico, progettato prima per smartphone e adattato a tablet e computer. Non richiede Node, npm, database o una compilazione.
 
-## Aprire il sito
-
-Estrai lo ZIP e apri `index.html` nel browser. Mantieni `style.css`, `script.js` e la cartella `assets` accanto a `index.html`.
-
 ## Pubblicare su GitHub Pages
 
 1. Crea un repository pubblico, ad esempio `a-tutta-pizza`.
